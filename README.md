@@ -1,2 +1,2 @@
 # koduru-dharmateja
-About me
+I'm a student who learns by building. I work on full-stack projects using React, TypeScript, Node.js, Prisma, and databases, and I spend a lot of time solving real development problems instead of just following tutorials. I'm interested in AI, web development, and creating practical applications that people can actually use. I also complete industry certifications and continuously improve my skills through hands-on projects. My goal is to become a strong software developer by shipping real projects, learning from mistakes, and improving with every build.
