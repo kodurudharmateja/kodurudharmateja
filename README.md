@@ -14,4 +14,4 @@ Quick Stats
 🤖 Exploring AI & LLM Applications
 🌱 Learning Every Day
 
-My goal is simple: build useful software, keep improving, and grow into an exceptional software engineer through consistent practice and real-world experience.
+My goal is simple: build useful software, keep improving, and grow into an exceptional software engineer through consistent practice and real-world experience!
